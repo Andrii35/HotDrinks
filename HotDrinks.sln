@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HotDrinks", "HotDrinks\HotDrinks.vcxproj", "{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Debug|x64.ActiveCfg = Debug|x64
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Debug|x64.Build.0 = Debug|x64
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Debug|x86.Build.0 = Debug|Win32
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Release|x64.ActiveCfg = Release|x64
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Release|x64.Build.0 = Release|x64
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Release|x86.ActiveCfg = Release|Win32
+		{3033F8A4-3F78-4AD0-95AC-C0D219C7D7E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A67F3DD-FC65-4465-AA73-A1D256E45486}
+	EndGlobalSection
+EndGlobal
